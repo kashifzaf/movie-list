@@ -1,0 +1,9 @@
+node_modules
+.DS_store
+.idea
+dist
+build
+coverage
+releases
+.tmp
+.env
